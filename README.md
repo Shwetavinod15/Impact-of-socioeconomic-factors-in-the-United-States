@@ -6,9 +6,13 @@ This repository contains the dataset and information related to the Tableau dash
 
 ## Dashboard
 
-Dashboard Link - [Netflix Dashboard](https://public.tableau.com/app/profile/shweta.vinod.kulkarni2486/viz/Netflix_Dashboard_17178823694320/Netflix)
+Dashboard 1 Link - [Dashboard 1](https://public.tableau.com/app/profile/shweta.vinod.kulkarni2486/viz/ImpactofSocioeconomicFactorsintheUnitedStates/SocialandEducationalInsights)
 
-<img src="Netflix_Dashboard.jpg">
+<img src="Dashboard 1.jpg">
+
+Dashboard 2 Link - [Dashboard 2](https://public.tableau.com/app/profile/shweta.vinod.kulkarni2486/viz/ImpactofSocioeconomicFactorsintheUnitedStates2/EconomicandSocialInsights)
+
+<img src="Dashboard 2.jpg">
 
 ## Dataset
 
