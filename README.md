@@ -25,7 +25,7 @@ Annual Wages: Annual wages per employee and total annual wages across various MS
 Ethnicity and Race: Percentage of ethnicity and race in institutions across Texas, Florida, and New York.
 Cost of Internet: Internet costs in various cities.
 
-You can find the dataset in this repository or view it [here](./Datasets.csv).
+You can find the dataset in this repository or view it [here](./Datasets.xlsx).
 
 ## Visual Data Insights:
 
